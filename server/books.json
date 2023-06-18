@@ -1,0 +1,492 @@
+[
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "pages": 281,
+      "genre": "Fiction",
+      "price": 9.99,
+      "rating": 4.8,
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/1200px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "pages": 328,
+      "genre": "Dystopian",
+      "price": 11.99,
+      "rating": 4.7,
+      "coverImage": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2017/01/2a34d8_a6741e88335241308890543d203ad89dmv2.jpg?resize=500%2C815&ssl=1"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "pages": 279,
+      "genre": "Romance",
+      "price": 10.99,
+      "rating": 4.6,
+      "coverImage": "https://images.squarespace-cdn.com/content/v1/58c180edff7c50dd0e51a2ad/1596041993633-UW2GTN4JZP8XLPZKKXCJ/9781847493699.jpg"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year": 1951,
+      "pages": 224,
+      "genre": "Coming-of-age",
+      "price": 8.99,
+      "rating": 4.4,
+      "coverImage": "https://cdn.britannica.com/94/181394-050-2F76F7EE/Reproduction-cover-edition-The-Catcher-in-the.jpg"
+    },
+    {
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "year": 1851,
+      "pages": 585,
+      "genre": "Adventure",
+      "price": 14.99,
+      "rating": 4.3,
+      "coverImage": "https://static01.nyt.com/images/2011/10/22/books/review/moby-dick-slideshow-slide-V7YU/moby-dick-slideshow-slide-V7YU-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "pages": 1178,
+      "genre": "Fantasy",
+      "price": 16.99,
+      "rating": 4.9,
+      "coverImage": "https://static01.nyt.com/images/2020/02/20/obituaries/14Remington2/14Remington2-videoSixteenByNineJumbo1600.jpg"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year": 1937,
+      "pages": 310,
+      "genre": "Fantasy",
+      "price": 9.99,
+      "rating": 4.7,
+      "coverImage": "https://m.media-amazon.com/images/I/710+HcoP38L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "year": 1927,
+      "pages": 209,
+      "genre": "Modernist",
+      "price": 11.99,
+      "rating": 4.2,
+      "coverImage": "http://cdn.shopify.com/s/files/1/1184/9194/products/To_the_Lighthouse_poster_600x.jpg?v=1458236487"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "year": 1932,
+      "pages": 288,
+      "genre": "Dystopian",
+      "price": 10.99,
+      "rating": 4.4,
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg"
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "year": -700,
+      "pages": 324,
+      "genre": "Epic",
+      "price": 9.99,
+      "rating": 4.6,
+      "coverImage": "https://images.squarespace-cdn.com/content/v1/600240ff6f0b7e66aaa0289e/18a1f3c1-fd72-40a0-a14f-4bcc82cba84b/Odyssey+book+cover_web.png?format=1000w"
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "year": 1866,
+      "pages": 671,
+      "genre": "Psychological Fiction",
+      "price": 13.99,
+      "rating": 4.8,
+      "coverImage": "https://m.media-amazon.com/images/I/81EcXiV-9WL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "year": 1988,
+      "pages": 197,
+      "genre": "Fantasy",
+      "price": 8.99,
+      "rating": 4.5,
+      "coverImage": "https://images.booksense.com/images/007/315/9780062315007.jpg"
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "year": 1877,
+      "pages": 864,
+      "genre": "Classics",
+      "price": 12.99,
+      "rating": 4.7,
+      "coverImage": "https://m.media-amazon.com/images/I/91F9WNEThJL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "year": 1818,
+      "pages": 280,
+      "genre": "Gothic",
+      "price": 9.99,
+      "rating": 4.4,
+      "coverImage": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146160/frankenstein-9781982146160_hr.jpg"
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "year": 1890,
+      "pages": 254,
+      "genre": "Gothic",
+      "price": 10.99,
+      "rating": 4.3,
+      "coverImage": "https://www.spbooks.com/1046-large_default/the-picture-of-dorian-gray.jpg"
+    },
+    {
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "year": 1892,
+      "pages": 307,
+      "genre": "Mystery",
+      "price": 11.99,
+      "rating": 4.6,
+      "coverImage": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781607102113/the-adventures-of-sherlock-holmes-and-other-stories-9781607102113_hr.jpg"
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "year": 1880,
+      "pages": 796,
+      "genre": "Philosophical Fiction",
+      "price": 14.99,
+      "rating": 4.8,
+      "coverImage": "https://m.media-amazon.com/images/I/71OZJsgZzQL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "year": 2005,
+      "pages": 552,
+      "genre": "Historical Fiction",
+      "price": 12.99,
+      "rating": 4.5,
+      "coverImage": "https://m.media-amazon.com/images/I/914h7ms4FXL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "One Hundred years of Solitude",
+      "author": "Gabriel García Márquez",
+      "year": 1967,
+      "pages": 417,
+      "genre": "Magical Realism",
+      "price": 11.99,
+      "rating": 4.7,
+      "coverImage": "https://m.media-amazon.com/images/I/81MI6+TpYkL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year": 1937,
+      "pages": 310,
+      "genre": "Fantasy",
+      "price": 9.99,
+      "rating": 4.7,
+      "coverImage": "https://m.media-amazon.com/images/I/710+HcoP38L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "year": 2003,
+      "pages": 371,
+      "genre": "Historical Fiction",
+      "price": 10.99,
+      "rating": 4.5,
+      "coverImage": "https://m.media-amazon.com/images/I/81RUfP0ZOjL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943,
+      "pages": 96,
+      "genre": "Children's Literature",
+      "price": 8.99,
+      "rating": 4.4,
+      "coverImage": "https://m.media-amazon.com/images/I/71OZY035QKL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "year": 1936,
+      "pages": 1037,
+      "genre": "Historical Fiction",
+      "price": 13.99,
+      "rating": 4.8,
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/6/6b/Gone_with_the_Wind_cover.jpg"
+    },
+    {
+      "title": "The Secret Life of Bees",
+      "author": "Sue Monk Kidd",
+      "year": 2001,
+      "pages": 336,
+      "genre": "Fiction",
+      "price": 9.99,
+      "rating": 4.6,
+      "coverImage": "https://m.media-amazon.com/images/I/81Hdb4e9jqL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "year": 1996,
+      "pages": 694,
+      "genre": "Fantasy",
+      "price": 11.99,
+      "rating": 4.7,
+      "coverImage": "https://m.media-amazon.com/images/I/91dSMhdIzTL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "year": 2015,
+      "pages": 325,
+      "genre": "Thriller",
+      "price": 10.99,
+      "rating": 4.3,
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/5/50/The_Girl_On_The_Train_%28US_cover_2015%29.png"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "year": 2003,
+      "pages": 689,
+      "genre": "Mystery",
+      "price": 12.99,
+      "rating": 4.5,
+      "coverImage": "https://m.media-amazon.com/images/I/91Q5dCjc2KL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "year": 2008,
+      "pages": 374,
+      "genre": "Young Adult",
+      "price": 9.99,
+      "rating": 4.4,
+      "coverImage": "https://m.media-amazon.com/images/I/614SwlZNtJL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Help",
+      "author": "Kathryn Stockett",
+      "year": 2009,
+      "pages": 451,
+      "genre": "Historical Fiction",
+      "price": 11.99,
+      "rating": 4.6,
+      "coverImage": "https://m.media-amazon.com/images/I/814e9UM5MiL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "year": 2012,
+      "pages": 313,
+      "genre": "Young Adult",
+      "price": 10.99,
+      "rating": 4.5,
+      "coverImage": "https://m.media-amazon.com/images/I/81a4kCNuH+L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "year": 1950,
+      "pages": 767,
+      "genre": "Fantasy",
+      "price": 13.99,
+      "rating": 4.7,
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/c/cb/The_Chronicles_of_Narnia_box_set_cover.jpg"
+    },
+    {
+      "title": "The Maze Runner",
+      "author": "James Dashner",
+      "year": 2009,
+      "pages": 375,
+      "genre": "Science Fiction",
+      "price": 10.99,
+      "rating": 4.3,
+      "coverImage": "https://m.media-amazon.com/images/I/91IJ2rIOEDL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Stand",
+      "author": "Stephen King",
+      "year": 1978,
+      "pages": 823,
+      "genre": "Horror",
+      "price": 12.99,
+      "rating": 4.5,
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/96/The_Stand_cover.jpg"
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "year": 2005,
+      "pages": 465,
+      "genre": "Mystery",
+      "price": 11.99,
+      "rating": 4.4,
+      "coverImage": "https://m.media-amazon.com/images/I/81UhKOBDrCL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "year": 1997,
+      "pages": 309,
+      "genre": "Fantasy",
+      "price": 9.99,
+      "rating": 4.8,
+      "coverImage": "https://m.media-amazon.com/images/I/71-++hbbERL.jpg"
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "year": 2006,
+      "pages": 287,
+      "genre": "Post-Apocalyptic",
+      "price": 10.99,
+      "rating": 4.5,
+      "coverImage": "https://booklistqueen.com/wp-content/uploads/the-road-cormac-mccarthy.jpg"
+    },
+    {
+      "title": "The Shining",
+      "author": "Stephen King",
+      "year": 1977,
+      "pages": 447,
+      "genre": "Horror",
+      "price": 11.99,
+      "rating": 4.7,
+      "coverImage": "https://m.media-amazon.com/images/I/91bjV4lqZpL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Girl in the Ice",
+      "author": "Robert Bryndza",
+      "year": 2016,
+      "pages": 396,
+      "genre": "Thriller",
+      "price": 10.99,
+      "rating": 4.3,
+      "coverImage": "https://m.media-amazon.com/images/I/61x5463riML.jpg"
+    },
+    {
+      "title": "The Help",
+      "author": "Kathryn Stockett",
+      "year": 2009,
+      "pages": 451,
+      "genre": "Historical Fiction",
+      "price": 11.99,
+      "rating": 4.6,
+      "coverImage": "https://m.media-amazon.com/images/I/814e9UM5MiL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year": 1951,
+      "pages": 224,
+      "genre": "Coming-of-age",
+      "price": 8.99,
+      "rating": 4.4,
+      "coverImage": "https://cdn.britannica.com/94/181394-050-2F76F7EE/Reproduction-cover-edition-The-Catcher-in-the.jpg"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "year": 2003,
+      "pages": 689,
+      "genre": "Mystery",
+      "price": 12.99,
+      "rating": 4.5,
+      "coverImage": "https://m.media-amazon.com/images/I/91Q5dCjc2KL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "pages": 1178,
+      "genre": "Fantasy",
+      "price": 16.99,
+      "rating": 4.9,
+      "coverImage": "https://static01.nyt.com/images/2020/02/20/obituaries/14Remington2/14Remington2-videoSixteenByNineJumbo1600.jpg"
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "year": 2005,
+      "pages": 465,
+      "genre": "Mystery",
+      "price": 11.99,
+      "rating": 4.4,
+      "coverImage": "https://m.media-amazon.com/images/I/81UhKOBDrCL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year": 1937,
+      "pages": 310,
+      "genre": "Fantasy",
+      "price": 9.99,
+      "rating": 4.7,
+      "coverImage": "https://m.media-amazon.com/images/I/710+HcoP38L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "pages": 180,
+      "genre": "Classic",
+      "price": 12.99,
+      "rating": 4.5,
+      "coverImage": "https://i0.wp.com/americanwritersmuseum.org/wp-content/uploads/2018/02/CK-3.jpg?resize=267%2C400&ssl=1"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "pages": 281,
+      "genre": "Fiction",
+      "price": 9.99,
+      "rating": 4.8,
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/1200px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "pages": 328,
+      "genre": "Dystopian",
+      "price": 11.99,
+      "rating": 4.7,
+      "coverImage": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2017/01/2a34d8_a6741e88335241308890543d203ad89dmv2.jpg?resize=500%2C815&ssl=1"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "pages": 279,
+      "genre": "Romance",
+      "price": 10.99,
+      "rating": 4.6,
+      "coverImage": "https://images.squarespace-cdn.com/content/v1/58c180edff7c50dd0e51a2ad/1596041993633-UW2GTN4JZP8XLPZKKXCJ/9781847493699.jpg"
+    },
+    {
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "year": 1851,
+      "pages": 585,
+      "genre": "Adventure",
+      "price": 14.99,
+      "rating": 4.3,
+      "coverImage": "https://static01.nyt.com/images/2011/10/22/books/review/moby-dick-slideshow-slide-V7YU/moby-dick-slideshow-slide-V7YU-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    }
+  ]
