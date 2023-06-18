@@ -18,30 +18,30 @@ Before you begin, ensure you have met the following requirements:
 You have installed the latest version of Node.js and npm
 You have installed Python
 You have a Windows/Linux/Mac machine.
-Installing the Bookstore Project
+
 To install the Bookstore Project, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/manisense/bookstore.git
+`git clone https://github.com/manisense/bookstore.git`
 
 Navigate to the project directory:
 
-cd bookstore
+`cd bookstore`
 
 Install the required npm packages:
 
-npm install
+`npm install`
 
 Install the required Python packages:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 To run the project, follow these steps:
 
 Start the backend server:
 
-uvicorn main:app --reload
+`uvicorn main:app --reload`
 
 The backend server will now be running at http://localhost:8000.
 
@@ -49,7 +49,7 @@ In a new terminal window, navigate to the project directory and start the React 
 
 Start the React server
 
-npm start run
+`npm start run`
 
 The application will now be running at http://localhost:3000.
 
@@ -57,8 +57,8 @@ Contributing to the Bookstore Project
 To contribute to the Bookstore Project, follow these steps:
 
 Fork the repository.
-Create a new branch: git checkout -b <branch_name>.
-Make your changes and commit them: git commit -m '<commit_message>'
-Push to the original branch: git push origin <project_name>/<location>
+Create a new branch: `git checkout -b <branch_name>`.
+Make your changes and commit them: `git commit -m '<commit_message>'`
+Push to the original branch: `git push origin <project_name>/<location>`
 Create the pull request.
 
